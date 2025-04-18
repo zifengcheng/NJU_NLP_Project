@@ -28,7 +28,7 @@
 
 ## 报告提交要求
 
-使用ACL 2024的[模板](https://github.com/acl-org/acl-style-files)，最终提交pdf版本。正文8-9页，reference和appendix不限制页数。
+使用 *ACL 的[模板](https://github.com/acl-org/acl-style-files)，最终提交pdf版本。正文8-9页，reference和appendix不限制页数。
 
 ## 答辩要求
 coming soon
