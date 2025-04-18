@@ -19,8 +19,8 @@
 - Proposal：
     - 截止时间：2025.4.30
     - 提交内容：选题、研究计划、组队情况
-- milestone: 
-    - 截止时间：2025.5.25
+- Milestone: 
+    - 截止时间：2025.5.23（暂定）
     - 提交内容：进展报告（跑了哪些实验、获得了哪些初步成果、剩下的时间有什么计划）
 - Final: 
     - 答辩日期：2025.6.6（暂定）
@@ -28,11 +28,7 @@
 
 ## 报告提交要求
 
-使用NeurIPS 2024的模板，最终提交pdf版本。
-
-[overleaf上的模板](https://www.overleaf.com/latex/templates/neurips-2024/tpsbbrdqcmsh)
-
-正文8-9页，reference和appendix不限制页数。
+使用ACL 2024的[模板](https://github.com/acl-org/acl-style-files)，最终提交pdf版本。正文8-9页，reference和appendix不限制页数。
 
 ## 答辩要求
 coming soon
